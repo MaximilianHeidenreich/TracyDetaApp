@@ -1,0 +1,8 @@
+### Deta ###
+.space
+
+### MacOSX ###
+.DS_Store
+
+### dotenv ###
+.env.local
